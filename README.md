@@ -19,3 +19,9 @@ The School Database Management System project aims to enhance the efficiency and
 Extract the zip file
 Run only the school.py file
 Show database: Install Xampp and then open the Xampp (start Apache server and MySQL) then open "localhost/phpmyadmin/" in Chrome browser.
+![253729355-08d3933b-b3c9-45b6-833](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/684ae2c7-7dd0-4bf9-90ee-44a4476e6a82)
+![253729333-1a2e669d-1225-4d13-ac8](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/b40cfe1a-7976-41f6-b1e6-bd4d719f859b)
+![253729270-394167a2-30b4-405f-bac](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/3bcb1f98-5aee-438b-8a4d-1f4ccdaa714b)
+![253729419-ffe7d4e6-256b-4587-ac3](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/9ae4093b-87f4-4cba-8a84-779503a5b2a2)
+![253729453-058219b7-1971-46db-aed](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/184af800-4032-4d1e-a1c2-a054731e7a51)
+![253729392-04b3853a-3c2a-4a94-945](https://github.com/gauravprajapat29/school_database_management_system/assets/117170702/abd6f5c0-a5e2-4254-a35a-bd2f46219be7)
