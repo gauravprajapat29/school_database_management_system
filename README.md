@@ -14,3 +14,8 @@ Key Features:
 5. **Data Retrieval Functionality**: The project implements data retrieval functionality, allowing users to display and access student and teacher data stored within the system. This enables easy visualization and management of relevant information.
 
 The School Database Management System project aims to enhance the efficiency and organization of school-related tasks and data management. With its user-friendly GUI, teachers and administrators can easily input, access, and analyze student information, leading to better decision-making and improved school operations.
+
+**How to use code**
+Extract the zip file
+Run only the school.py file
+Show database: Install Xampp and then open the Xampp (start Apache server and MySQL) then open "localhost/phpmyadmin/" in Chrome browser.
